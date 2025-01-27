@@ -12,4 +12,4 @@
 
 **MENTOR NAME**:Neela Santhosh Kumar
 
-**OUTPUT OF THE TASK**
+**OUTPUT OF THE TASK**:![Image](https://github.com/user-attachments/assets/7b096d59-7d1f-4b9e-ab44-79b4b4f52de4)
