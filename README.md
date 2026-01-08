@@ -1,15 +1,48 @@
-# CHAT-WEB-APPLICATION
+# Chat Web Application
 
-**COMPANY**:CODTECH IT SOLUTIONS
+A simple web-based chat application built using **HTML, CSS and JavaScript**.  
+This project demonstrates basic real-time messaging UI and interaction using web technologies.
 
-**NAME**:TANMAY SUBHASH SAWAJI
+---
 
-**INTERN ID**:CT08FVN
+## 🚀 Live Demo
 
-**DOMAIN**:Frontend Web Development
 
-**BATCH DURATION**: December 25th, 2024 --- January 25th, 2025.
+**Live:** https://your-github-username.github.io/CHAT-WEB-APPLICATION
 
-**MENTOR NAME**:Neela Santhosh Kumar
+---
 
-**OUTPUT OF THE TASK**:![Image](https://github.com/user-attachments/assets/7b096d59-7d1f-4b9e-ab44-79b4b4f52de4)
+## 📌 Description
+
+This chat web application allows users to send and view messages in a conversational format.  
+It is built using core web development technologies without any backend, suitable for UI practice and learning DOM manipulation.
+
+The application includes:
+- Chat interface layout
+- Message input and display
+- Basic UI enhancements (CSS)
+
+---
+
+
+
+## 🧠 Features
+
+✔ Simple chat UI layout  
+✔ Message display without page refresh  
+✔ Responsive and clean design  
+✔ Vanilla JavaScript interaction logic
+
+---
+
+## 🛠️ Tech Stack
+
+This project uses:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+---
+
+
