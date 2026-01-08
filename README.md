@@ -8,7 +8,7 @@ This project demonstrates basic real-time messaging UI and interaction using web
 ## 🚀 Live Demo
 
 
-**Live:** https://your-github-username.github.io/CHAT-WEB-APPLICATION
+**Live:**https://github.com/tanmaysawaji-1/CHAT-WEB-APPLICATION
 
 ---
 
